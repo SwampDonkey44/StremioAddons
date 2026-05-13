@@ -1,22 +1,22 @@
-[
-  {
+{
+  "morpheus.badboysxs": {
     "name": "Morpheus (BadBoysXS)",
     "manifest": "https://badboysxs-morpheus.hf.space/stremioget/stremio/v1/manifest.json"
   },
-  {
+  "webstream.rmbg": {
     "name": "WebStream RMBG",
     "manifest": "https://87d6a6ef6b58-webstreamrmbg.baby-beamup.club/stremioget/stremio/v1/manifest.json"
   },
-  {
+  "froststream": {
     "name": "FrostStream",
     "manifest": "https://froststream.onrender.com/stremioget/stremio/v1/manifest.json"
   },
-  {
+  "sword.watch": {
     "name": "Sword Watch (Multi)",
     "manifest": "https://sword-watch.vercel.app/%7B%22multi%22%3A%22on%22%7D/stremioget/stremio/v1/manifest.json"
   },
-  {
+  "nebulastreams": {
     "name": "NebulaStreams",
     "manifest": "https://nebulastreams.onrender.com/stremioget/stremio/v1/manifest.json"
   }
-]
+}
