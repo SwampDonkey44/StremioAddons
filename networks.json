@@ -1,0 +1,266 @@
+[
+{
+"backgroundImageURL" : "https:\/\/nuvioapp.space\/uploads\/covers\/f358c2b8-18f6-488c-aed3-87fac39cdbec.jpg",
+"dataSource" : {
+"kind" : "addonCatalog",
+"payload" : {
+"addonId" : "https:\/\/7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club\/bmZ4LGRucCxhbXAsYXRwLGhibSxwbXAsY3J1LGRwZSxwY3AsaGx1LHN0ejo6VVM6MTc3ODcxNDcxNjA3NzowOjA6Q0E%3D\/manifest.json",
+"catalogId" : "movie::nfx",
+"catalogType" : "movie"
+}
+},
+"dataSources" : [
+{
+"kind" : "addonCatalog",
+"payload" : {
+"addonId" : "https:\/\/7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club\/bmZ4LGRucCxhbXAsYXRwLGhibSxwbXAsY3J1LGRwZSxwY3AsaGx1LHN0ejo6VVM6MTc3ODcxNDcxNjA3NzowOjA6Q0E%3D\/manifest.json",
+"catalogId" : "movie::nfx",
+"catalogType" : "movie"
+}
+},
+{
+"kind" : "addonCatalog",
+"payload" : {
+"addonId" : "https:\/\/7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club\/bmZ4LGRucCxhbXAsYXRwLGhibSxwbXAsY3J1LGRwZSxwY3AsaGx1LHN0ejo6VVM6MTc3ODcxNDcxNjA3NzowOjA6Q0E%3D\/manifest.json",
+"catalogId" : "series::nfx",
+"catalogType" : "series"
+}
+}
+],
+"hideTitle" : true,
+"id" : "A8ECF45C-3F30-4501-9314-D9EF9539A491",
+"layout" : "Wide",
+"name" : "Netflix"
+},
+{
+"backgroundImageURL" : "https:\/\/nuvioapp.space\/uploads\/covers\/d5c3665c-da82-4f65-a42f-daabe0cd5ced.png",
+"dataSource" : {
+"kind" : "addonCatalog",
+"payload" : {
+"addonId" : "https:\/\/7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club\/bmZ4LGRucCxhbXAsYXRwLGhibSxwbXAsY3J1LGRwZSxwY3AsaGx1LHN0ejo6VVM6MTc3ODcxNDcxNjA3NzowOjA6Q0E%3D\/manifest.json",
+"catalogId" : "movie::amp",
+"catalogType" : "movie"
+}
+},
+"dataSources" : [
+{
+"kind" : "addonCatalog",
+"payload" : {
+"addonId" : "https:\/\/7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club\/bmZ4LGRucCxhbXAsYXRwLGhibSxwbXAsY3J1LGRwZSxwY3AsaGx1LHN0ejo6VVM6MTc3ODcxNDcxNjA3NzowOjA6Q0E%3D\/manifest.json",
+"catalogId" : "movie::amp",
+"catalogType" : "movie"
+}
+},
+{
+"kind" : "addonCatalog",
+"payload" : {
+"addonId" : "https:\/\/7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club\/bmZ4LGRucCxhbXAsYXRwLGhibSxwbXAsY3J1LGRwZSxwY3AsaGx1LHN0ejo6VVM6MTc3ODcxNDcxNjA3NzowOjA6Q0E%3D\/manifest.json",
+"catalogId" : "series::amp",
+"catalogType" : "series"
+}
+}
+],
+"hideTitle" : true,
+"id" : "6B82D53B-0143-43DC-BFF9-5D2A8AFDA069",
+"layout" : "Wide",
+"name" : "Prime Video"
+},
+{
+"backgroundImageURL" : "https:\/\/nuvioapp.space\/uploads\/covers\/3b379dee-815e-445e-8f67-d5a43b05d2da.jpg",
+"dataSource" : {
+"kind" : "addonCatalog",
+"payload" : {
+"addonId" : "https:\/\/7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club\/bmZ4LGRucCxhbXAsYXRwLGhibSxwbXAsY3J1LGRwZSxwY3AsaGx1LHN0ejo6VVM6MTc3ODcxNDcxNjA3NzowOjA6Q0E%3D\/manifest.json",
+"catalogId" : "movie::dnp",
+"catalogType" : "movie"
+}
+},
+"dataSources" : [
+{
+"kind" : "addonCatalog",
+"payload" : {
+"addonId" : "https:\/\/7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club\/bmZ4LGRucCxhbXAsYXRwLGhibSxwbXAsY3J1LGRwZSxwY3AsaGx1LHN0ejo6VVM6MTc3ODcxNDcxNjA3NzowOjA6Q0E%3D\/manifest.json",
+"catalogId" : "movie::dnp",
+"catalogType" : "movie"
+}
+},
+{
+"kind" : "addonCatalog",
+"payload" : {
+"addonId" : "https:\/\/7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club\/bmZ4LGRucCxhbXAsYXRwLGhibSxwbXAsY3J1LGRwZSxwY3AsaGx1LHN0ejo6VVM6MTc3ODcxNDcxNjA3NzowOjA6Q0E%3D\/manifest.json",
+"catalogId" : "series::dnp",
+"catalogType" : "series"
+}
+}
+],
+"hideTitle" : true,
+"id" : "C4439649-E7DC-46AB-894E-0EDCB62943D1",
+"layout" : "Wide",
+"name" : "Apple TV+"
+},
+{
+"backgroundImageURL" : "https:\/\/nuvioapp.space\/uploads\/covers\/9c848b95-647e-41ca-8852-31294d6eb883.png",
+"dataSource" : {
+"kind" : "addonCatalog",
+"payload" : {
+"addonId" : "https:\/\/7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club\/bmZ4LGRucCxhbXAsYXRwLGhibSxwbXAsY3J1LGRwZSxwY3AsaGx1LHN0ejo6VVM6MTc3ODcxNDcxNjA3NzowOjA6Q0E%3D\/manifest.json",
+"catalogId" : "movie::dnp",
+"catalogType" : "movie"
+}
+},
+"dataSources" : [
+{
+"kind" : "addonCatalog",
+"payload" : {
+"addonId" : "https:\/\/7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club\/bmZ4LGRucCxhbXAsYXRwLGhibSxwbXAsY3J1LGRwZSxwY3AsaGx1LHN0ejo6VVM6MTc3ODcxNDcxNjA3NzowOjA6Q0E%3D\/manifest.json",
+"catalogId" : "movie::dnp",
+"catalogType" : "movie"
+}
+},
+{
+"kind" : "addonCatalog",
+"payload" : {
+"addonId" : "https:\/\/7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club\/bmZ4LGRucCxhbXAsYXRwLGhibSxwbXAsY3J1LGRwZSxwY3AsaGx1LHN0ejo6VVM6MTc3ODcxNDcxNjA3NzowOjA6Q0E%3D\/manifest.json",
+"catalogId" : "series::dnp",
+"catalogType" : "series"
+}
+}
+],
+"hideTitle" : true,
+"id" : "64CB52CA-984C-4031-8669-3B051DFAE743",
+"layout" : "Wide",
+"name" : "Disney+"
+},
+{
+"backgroundImageURL" : "https:\/\/nuvioapp.space\/uploads\/covers\/d2964e1b-9fc8-4c4b-aad1-50abac4149e5.png",
+"dataSource" : {
+"kind" : "addonCatalog",
+"payload" : {
+"addonId" : "https:\/\/7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club\/bmZ4LGRucCxhbXAsYXRwLGhibSxwbXAsY3J1LGRwZSxwY3AsaGx1LHN0ejo6VVM6MTc3ODcxNDcxNjA3NzowOjA6Q0E%3D\/manifest.json",
+"catalogId" : "movie::hbm",
+"catalogType" : "movie"
+}
+},
+"dataSources" : [
+{
+"kind" : "addonCatalog",
+"payload" : {
+"addonId" : "https:\/\/7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club\/bmZ4LGRucCxhbXAsYXRwLGhibSxwbXAsY3J1LGRwZSxwY3AsaGx1LHN0ejo6VVM6MTc3ODcxNDcxNjA3NzowOjA6Q0E%3D\/manifest.json",
+"catalogId" : "movie::hbm",
+"catalogType" : "movie"
+}
+},
+{
+"kind" : "addonCatalog",
+"payload" : {
+"addonId" : "https:\/\/7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club\/bmZ4LGRucCxhbXAsYXRwLGhibSxwbXAsY3J1LGRwZSxwY3AsaGx1LHN0ejo6VVM6MTc3ODcxNDcxNjA3NzowOjA6Q0E%3D\/manifest.json",
+"catalogId" : "series::hbm",
+"catalogType" : "series"
+}
+}
+],
+"hideTitle" : true,
+"id" : "8BD4ED8A-22E7-4DED-BC8D-1292746F4F4D",
+"layout" : "Wide",
+"name" : "HBO Max"
+},
+{
+"backgroundImageURL" : "https:\/\/nuvioapp.space\/uploads\/covers\/c60d14ce-5d3a-462b-920b-24064ddb791f.png",
+"dataSource" : {
+"kind" : "addonCatalog",
+"payload" : {
+"addonId" : "https:\/\/7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club\/bmZ4LGRucCxhbXAsYXRwLGhibSxwbXAsY3J1LGRwZSxwY3AsaGx1LHN0ejo6VVM6MTc3ODcxNDcxNjA3NzowOjA6Q0E%3D\/manifest.json",
+"catalogId" : "movie::pmp",
+"catalogType" : "movie"
+}
+},
+"dataSources" : [
+{
+"kind" : "addonCatalog",
+"payload" : {
+"addonId" : "https:\/\/7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club\/bmZ4LGRucCxhbXAsYXRwLGhibSxwbXAsY3J1LGRwZSxwY3AsaGx1LHN0ejo6VVM6MTc3ODcxNDcxNjA3NzowOjA6Q0E%3D\/manifest.json",
+"catalogId" : "movie::pmp",
+"catalogType" : "movie"
+}
+},
+{
+"kind" : "addonCatalog",
+"payload" : {
+"addonId" : "https:\/\/7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club\/bmZ4LGRucCxhbXAsYXRwLGhibSxwbXAsY3J1LGRwZSxwY3AsaGx1LHN0ejo6VVM6MTc3ODcxNDcxNjA3NzowOjA6Q0E%3D\/manifest.json",
+"catalogId" : "series::pmp",
+"catalogType" : "series"
+}
+}
+],
+"hideTitle" : true,
+"id" : "EDB8EF6D-9FA4-4F41-A4B4-2DA04914C1AD",
+"layout" : "Wide",
+"name" : "Paramount+"
+},
+{
+"backgroundImageURL" : "https:\/\/i.postimg.cc\/tTjkXVZV\/Crunchyroll.jpg",
+"dataSource" : {
+"kind" : "addonCatalog",
+"payload" : {
+"addonId" : "https:\/\/7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club\/bmZ4LGRucCxhbXAsYXRwLGhibSxwbXAsY3J1LGRwZSxwY3AsaGx1LHN0ejo6VVM6MTc3ODcxNDcxNjA3NzowOjA6Q0E%3D\/manifest.json",
+"catalogId" : "movie::cru",
+"catalogType" : "movie"
+}
+},
+"dataSources" : [
+{
+"kind" : "addonCatalog",
+"payload" : {
+"addonId" : "https:\/\/7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club\/bmZ4LGRucCxhbXAsYXRwLGhibSxwbXAsY3J1LGRwZSxwY3AsaGx1LHN0ejo6VVM6MTc3ODcxNDcxNjA3NzowOjA6Q0E%3D\/manifest.json",
+"catalogId" : "movie::cru",
+"catalogType" : "movie"
+}
+},
+{
+"kind" : "addonCatalog",
+"payload" : {
+"addonId" : "https:\/\/7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club\/bmZ4LGRucCxhbXAsYXRwLGhibSxwbXAsY3J1LGRwZSxwY3AsaGx1LHN0ejo6VVM6MTc3ODcxNDcxNjA3NzowOjA6Q0E%3D\/manifest.json",
+"catalogId" : "series::cru",
+"catalogType" : "series"
+}
+}
+],
+"hideTitle" : true,
+"id" : "832ED3E2-A8CF-4488-9A8F-7443ACCD9EC6",
+"layout" : "Wide",
+"name" : "Crunchyroll"
+},
+{
+"backgroundImageURL" : "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSy5CyuNVaZeNdTU3lxSlUwiZj9iDEuLuDpDduaaQzAqO-rj56_Bhboia2l&s=10",
+"dataSource" : {
+"kind" : "addonCatalog",
+"payload" : {
+"addonId" : "https:\/\/7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club\/bmZ4LGRucCxhbXAsYXRwLGhibSxwbXAsY3J1LGRwZSxwY3AsaGx1LHN0ejo6VVM6MTc3ODcxNDcxNjA3NzowOjA6Q0E%3D\/manifest.json",
+"catalogId" : "movie::hlu",
+"catalogType" : "movie"
+}
+},
+"dataSources" : [
+{
+"kind" : "addonCatalog",
+"payload" : {
+"addonId" : "https:\/\/7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club\/bmZ4LGRucCxhbXAsYXRwLGhibSxwbXAsY3J1LGRwZSxwY3AsaGx1LHN0ejo6VVM6MTc3ODcxNDcxNjA3NzowOjA6Q0E%3D\/manifest.json",
+"catalogId" : "movie::hlu",
+"catalogType" : "movie"
+}
+},
+{
+"kind" : "addonCatalog",
+"payload" : {
+"addonId" : "https:\/\/7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club\/bmZ4LGRucCxhbXAsYXRwLGhibSxwbXAsY3J1LGRwZSxwY3AsaGx1LHN0ejo6VVM6MTc3ODcxNDcxNjA3NzowOjA6Q0E%3D\/manifest.json",
+"catalogId" : "series::hlu",
+"catalogType" : "series"
+}
+}
+],
+"hideTitle" : true,
+"id" : "04364A5C-6CD1-43FE-9836-2F031CA313CE",
+"layout" : "Wide",
+"name" : "Hulu"
+}
+]
