@@ -1,211 +1,211 @@
 {
-  "exportType": "fusionWidgets",
-  "exportVersion": 1,
-  "widgets": [
+  "exportType" : "fusionWidgets",
+  "exportVersion" : 1,
+  "widgets" : [
     {
-      "id": "collection.collection-ed5c0ebc",
-      "title": "Network",
-      "type": "collection.row",
-      "dataSource": {
-        "kind": "collection",
-        "payload": {
-          "items": [
+      "id" : "collection.collection-ed5c0ebc",
+      "title" : "Network",
+      "type" : "collection.row",
+      "dataSource" : {
+        "kind" : "collection",
+        "payload" : {
+          "items" : [
             {
-              "id": "folder-a638b0b6",
-              "title": "Netflix",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "imageURL": "https://nuvioapp.space/uploads/covers/f358c2b8-18f6-488c-aed3-87fac39cdbec.jpg",
-              "dataSources": [
+              "id" : "folder-a638b0b6",
+              "title" : "Netflix",
+              "hideTitle" : true,
+              "imageAspect" : "wide",
+              "imageURL" : "https://nuvioapp.space/uploads/covers/f358c2b8-18f6-488c-aed3-87fac39cdbec.jpg",
+              "dataSources" : [
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "pw.ers.netflix-catalog",
-                    "catalogId": "nfx",
-                    "type": "movie"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club\/bmZ4LGRucCxhbXAsYXRwLGhibSxwbXAsY3J1LGRwZSxwY3AsaGx1LHN0ejo6VVM6MTc3ODcxNDcxNjA3NzowOjA6Q0E%3D\/manifest.json",
+                    "catalogId" : "movie::nfx",
+                    "type" : "movie"
                   }
                 },
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "pw.ers.netflix-catalog",
-                    "catalogId": "nfx",
-                    "type": "series"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club\/bmZ4LGRucCxhbXAsYXRwLGhibSxwbXAsY3J1LGRwZSxwY3AsaGx1LHN0ejo6VVM6MTc3ODcxNDcxNjA3NzowOjA6Q0E%3D\/manifest.json",
+                    "catalogId" : "series::nfx",
+                    "type" : "series"
                   }
                 }
               ]
             },
             {
-              "id": "folder-41a7fa1a",
-              "title": "Prime Video",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "imageURL": "https://nuvioapp.space/uploads/covers/d5c3665c-da82-4f65-a42f-daabe0cd5ced.png",
-              "dataSources": [
+              "id" : "folder-41a7fa1a",
+              "title" : "Prime Video",
+              "hideTitle" : true,
+              "imageAspect" : "wide",
+              "imageURL" : "https://nuvioapp.space/uploads/covers/d5c3665c-da82-4f65-a42f-daabe0cd5ced.png",
+              "dataSources" : [
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "pw.ers.netflix-catalog",
-                    "catalogId": "amp",
-                    "type": "movie"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club\/bmZ4LGRucCxhbXAsYXRwLGhibSxwbXAsY3J1LGRwZSxwY3AsaGx1LHN0ejo6VVM6MTc3ODcxNDcxNjA3NzowOjA6Q0E%3D\/manifest.json",
+                    "catalogId" : "movie::amp",
+                    "type" : "movie"
                   }
                 },
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "pw.ers.netflix-catalog",
-                    "catalogId": "amp",
-                    "type": "series"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club\/bmZ4LGRucCxhbXAsYXRwLGhibSxwbXAsY3J1LGRwZSxwY3AsaGx1LHN0ejo6VVM6MTc3ODcxNDcxNjA3NzowOjA6Q0E%3D\/manifest.json",
+                    "catalogId" : "series::amp",
+                    "type" : "series"
                   }
                 }
               ]
             },
             {
-              "id": "folder-f115f284",
-              "title": "Apple TV+",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "imageURL": "https://nuvioapp.space/uploads/covers/3b379dee-815e-445e-8f67-d5a43b05d2da.jpg",
-              "dataSources": [
+              "id" : "folder-f115f284",
+              "title" : "Apple TV+",
+              "hideTitle" : true,
+              "imageAspect" : "wide",
+              "imageURL" : "https://nuvioapp.space/uploads/covers/3b379dee-815e-445e-8f67-d5a43b05d2da.jpg",
+              "dataSources" : [
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "pw.ers.netflix-catalog",
-                    "catalogId": "atp",
-                    "type": "movie"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club\/bmZ4LGRucCxhbXAsYXRwLGhibSxwbXAsY3J1LGRwZSxwY3AsaGx1LHN0ejo6VVM6MTc3ODcxNDcxNjA3NzowOjA6Q0E%3D\/manifest.json",
+                    "catalogId" : "movie::atp",
+                    "type" : "movie"
                   }
                 },
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "pw.ers.netflix-catalog",
-                    "catalogId": "atp",
-                    "type": "series"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club\/bmZ4LGRucCxhbXAsYXRwLGhibSxwbXAsY3J1LGRwZSxwY3AsaGx1LHN0ejo6VVM6MTc3ODcxNDcxNjA3NzowOjA6Q0E%3D\/manifest.json",
+                    "catalogId" : "series::atp",
+                    "type" : "series"
                   }
                 }
               ]
             },
             {
-              "id": "folder-d6e10672",
-              "title": "Disney+",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "imageURL": "https://nuvioapp.space/uploads/covers/9c848b95-647e-41ca-8852-31294d6eb883.png",
-              "dataSources": [
+              "id" : "folder-d6e10672",
+              "title" : "Disney+",
+              "hideTitle" : true,
+              "imageAspect" : "wide",
+              "imageURL" : "https://nuvioapp.space/uploads/covers/9c848b95-647e-41ca-8852-31294d6eb883.png",
+              "dataSources" : [
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "pw.ers.netflix-catalog",
-                    "catalogId": "dnp",
-                    "type": "movie"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club\/bmZ4LGRucCxhbXAsYXRwLGhibSxwbXAsY3J1LGRwZSxwY3AsaGx1LHN0ejo6VVM6MTc3ODcxNDcxNjA3NzowOjA6Q0E%3D\/manifest.json",
+                    "catalogId" : "movie::dnp",
+                    "type" : "movie"
                   }
                 },
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "pw.ers.netflix-catalog",
-                    "catalogId": "dnp",
-                    "type": "series"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club\/bmZ4LGRucCxhbXAsYXRwLGhibSxwbXAsY3J1LGRwZSxwY3AsaGx1LHN0ejo6VVM6MTc3ODcxNDcxNjA3NzowOjA6Q0E%3D\/manifest.json",
+                    "catalogId" : "series::dnp",
+                    "type" : "series"
                   }
                 }
               ]
             },
             {
-              "id": "folder-db0af3d2",
-              "title": "HBO Max",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "imageURL": "https://nuvioapp.space/uploads/covers/d2964e1b-9fc8-4c4b-aad1-50abac4149e5.png",
-              "dataSources": [
+              "id" : "folder-db0af3d2",
+              "title" : "HBO Max",
+              "hideTitle" : true,
+              "imageAspect" : "wide",
+              "imageURL" : "https://nuvioapp.space/uploads/covers/d2964e1b-9fc8-4c4b-aad1-50abac4149e5.png",
+              "dataSources" : [
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "pw.ers.netflix-catalog",
-                    "catalogId": "hbm",
-                    "type": "movie"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club\/bmZ4LGRucCxhbXAsYXRwLGhibSxwbXAsY3J1LGRwZSxwY3AsaGx1LHN0ejo6VVM6MTc3ODcxNDcxNjA3NzowOjA6Q0E%3D\/manifest.json",
+                    "catalogId" : "movie::hbm",
+                    "type" : "movie"
                   }
                 },
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "pw.ers.netflix-catalog",
-                    "catalogId": "hbm",
-                    "type": "series"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club\/bmZ4LGRucCxhbXAsYXRwLGhibSxwbXAsY3J1LGRwZSxwY3AsaGx1LHN0ejo6VVM6MTc3ODcxNDcxNjA3NzowOjA6Q0E%3D\/manifest.json",
+                    "catalogId" : "series::hbm",
+                    "type" : "series"
                   }
                 }
               ]
             },
             {
-              "id": "folder-a56285b5",
-              "title": "Paramount+",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "imageURL": "https://nuvioapp.space/uploads/covers/c60d14ce-5d3a-462b-920b-24064ddb791f.png",
-              "dataSources": [
+              "id" : "folder-a56285b5",
+              "title" : "Paramount+",
+              "hideTitle" : true,
+              "imageAspect" : "wide",
+              "imageURL" : "https://nuvioapp.space/uploads/covers/c60d14ce-5d3a-462b-920b-24064ddb791f.png",
+              "dataSources" : [
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "pw.ers.netflix-catalog",
-                    "catalogId": "pmp",
-                    "type": "movie"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club\/bmZ4LGRucCxhbXAsYXRwLGhibSxwbXAsY3J1LGRwZSxwY3AsaGx1LHN0ejo6VVM6MTc3ODcxNDcxNjA3NzowOjA6Q0E%3D\/manifest.json",
+                    "catalogId" : "movie::pmp",
+                    "type" : "movie"
                   }
                 },
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "pw.ers.netflix-catalog",
-                    "catalogId": "pmp",
-                    "type": "series"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club\/bmZ4LGRucCxhbXAsYXRwLGhibSxwbXAsY3J1LGRwZSxwY3AsaGx1LHN0ejo6VVM6MTc3ODcxNDcxNjA3NzowOjA6Q0E%3D\/manifest.json",
+                    "catalogId" : "series::pmp",
+                    "type" : "series"
                   }
                 }
               ]
             },
             {
-              "id": "folder-6259dae0",
-              "title": "Crunchyroll",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "imageURL": "https://i.postimg.cc/tTjkXVZV/Crunchyroll.jpg",
-              "dataSources": [
+              "id" : "folder-6259dae0",
+              "title" : "Crunchyroll",
+              "hideTitle" : true,
+              "imageAspect" : "wide",
+              "imageURL" : "https://i.postimg.cc/tTjkXVZV/Crunchyroll.jpg",
+              "dataSources" : [
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "pw.ers.netflix-catalog",
-                    "catalogId": "cru",
-                    "type": "movie"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club\/bmZ4LGRucCxhbXAsYXRwLGhibSxwbXAsY3J1LGRwZSxwY3AsaGx1LHN0ejo6VVM6MTc3ODcxNDcxNjA3NzowOjA6Q0E%3D\/manifest.json",
+                    "catalogId" : "movie::cru",
+                    "type" : "movie"
                   }
                 },
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "pw.ers.netflix-catalog",
-                    "catalogId": "cru",
-                    "type": "series"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club\/bmZ4LGRucCxhbXAsYXRwLGhibSxwbXAsY3J1LGRwZSxwY3AsaGx1LHN0ejo6VVM6MTc3ODcxNDcxNjA3NzowOjA6Q0E%3D\/manifest.json",
+                    "catalogId" : "series::cru",
+                    "type" : "series"
                   }
                 }
               ]
             },
             {
-              "id": "folder-9d5b449f",
-              "title": "Hulu",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy5CyuNVaZeNdTU3lxSlUwiZj9iDEuLuDpDduaaQzAqO-rj56_Bhboia2l&s=10",
-              "dataSources": [
+              "id" : "folder-9d5b449f",
+              "title" : "Hulu",
+              "hideTitle" : true,
+              "imageAspect" : "wide",
+              "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy5CyuNVaZeNdTU3lxSlUwiZj9iDEuLuDpDduaaQzAqO-rj56_Bhboia2l&s=10",
+              "dataSources" : [
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "pw.ers.netflix-catalog",
-                    "catalogId": "hlu",
-                    "type": "movie"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club\/bmZ4LGRucCxhbXAsYXRwLGhibSxwbXAsY3J1LGRwZSxwY3AsaGx1LHN0ejo6VVM6MTc3ODcxNDcxNjA3NzowOjA6Q0E%3D\/manifest.json",
+                    "catalogId" : "movie::hlu",
+                    "type" : "movie"
                   }
                 },
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "pw.ers.netflix-catalog",
-                    "catalogId": "hlu",
-                    "type": "series"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club\/bmZ4LGRucCxhbXAsYXRwLGhibSxwbXAsY3J1LGRwZSxwY3AsaGx1LHN0ejo6VVM6MTc3ODcxNDcxNjA3NzowOjA6Q0E%3D\/manifest.json",
+                    "catalogId" : "series::hlu",
+                    "type" : "series"
                   }
                 }
               ]
@@ -215,79 +215,77 @@
       }
     },
     {
-      "id": "collection.f08ce9d6-429d-4c75-83f8-1d4d5eae096e",
-      "title": "Discover",
-      "type": "collection.row",
-      "dataSource": {
-        "kind": "collection",
-        "payload": {
-          "items": [
+      "id" : "collection.f08ce9d6-429d-4c75-83f8-1d4d5eae096e",
+      "title" : "Discover",
+      "type" : "collection.row",
+      "dataSource" : {
+        "kind" : "collection",
+        "payload" : {
+          "items" : [
             {
-              "id": "6bb2f5f4-5935-49f9-b8e8-1b5b80799816",
-              "title": "Latest Movies",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "imageURL": "https://i.postimg.cc/SRJCfN6J/latest-movies-digital-release-landscape-ember-upscayl-2x-digital-art-4x.png",
-              "dataSources": [
+              "id" : "6bb2f5f4-5935-49f9-b8e8-1b5b80799816",
+              "title" : "Latest Movies",
+              "hideTitle" : true,
+              "imageAspect" : "wide",
+              "imageURL" : "https://i.postimg.cc/SRJCfN6J/latest-movies-digital-release-landscape-ember-upscayl-2x-digital-art-4x.png",
+              "dataSources" : [
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "com.linvo.cinemeta",
-                    "catalogId": "year",
-                    "type": "movie",
-                    "genre": "2026"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "com.linvo.cinemeta",
+                    "catalogId" : "year",
+                    "type" : "movie"
                   }
                 }
               ]
             },
             {
-              "id": "960e48e7-39dc-453e-949e-48fc7d2e480c",
-              "title": "Latest Shows",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "imageURL": "https://i.postimg.cc/BbXHBQTV/latest-shows-landscape-ember-upscayl-2x-digital-art-4x.png",
-              "dataSources": [
+              "id" : "960e48e7-39dc-453e-949e-48fc7d2e480c",
+              "title" : "Latest Shows",
+              "hideTitle" : true,
+              "imageAspect" : "wide",
+              "imageURL" : "https://i.postimg.cc/BbXHBQTV/latest-shows-landscape-ember-upscayl-2x-digital-art-4x.png",
+              "dataSources" : [
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "com.linvo.cinemeta",
-                    "catalogId": "year",
-                    "type": "series",
-                    "genre": "2026"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "com.linvo.cinemeta",
+                    "catalogId" : "year",
+                    "type" : "series"
                   }
                 }
               ]
             },
             {
-              "id": "a0bde699-39ca-43a0-8bc9-d0d02348393b",
-              "title": "Trending Movies",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "imageURL": "https://i.postimg.cc/pdJf2SVs/trending-movies-landscape-ember-upscayl-2x-digital-art-4x.png",
-              "dataSources": [
+              "id" : "a0bde699-39ca-43a0-8bc9-d0d02348393b",
+              "title" : "Trending Movies",
+              "hideTitle" : true,
+              "imageAspect" : "wide",
+              "imageURL" : "https://i.postimg.cc/pdJf2SVs/trending-movies-landscape-ember-upscayl-2x-digital-art-4x.png",
+              "dataSources" : [
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "com.linvo.cinemeta",
-                    "catalogId": "top",
-                    "type": "movie"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "com.linvo.cinemeta",
+                    "catalogId" : "top",
+                    "type" : "movie"
                   }
                 }
               ]
             },
             {
-              "id": "23166298-ffde-4b91-86b7-a94039f423d7",
-              "title": "Trending Shows",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "imageURL": "https://i.postimg.cc/3RL2GDvh/trending-shows-landscape-ember-upscayl-2x-digital-art-4x.png",
-              "dataSources": [
+              "id" : "23166298-ffde-4b91-86b7-a94039f423d7",
+              "title" : "Trending Shows",
+              "hideTitle" : true,
+              "imageAspect" : "wide",
+              "imageURL" : "https://i.postimg.cc/3RL2GDvh/trending-shows-landscape-ember-upscayl-2x-digital-art-4x.png",
+              "dataSources" : [
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "com.linvo.cinemeta",
-                    "catalogId": "top",
-                    "type": "series"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "com.linvo.cinemeta",
+                    "catalogId" : "top",
+                    "type" : "series"
                   }
                 }
               ]
@@ -297,288 +295,268 @@
       }
     },
     {
-      "id": "collection.f5d85ab1-70ee-4ea4-9ba3-570006691f49",
-      "title": "Genres",
-      "type": "collection.row",
-      "dataSource": {
-        "kind": "collection",
-        "payload": {
-          "items": [
+      "id" : "collection.f5d85ab1-70ee-4ea4-9ba3-570006691f49",
+      "title" : "Genres",
+      "type" : "collection.row",
+      "dataSource" : {
+        "kind" : "collection",
+        "payload" : {
+          "items" : [
             {
-              "id": "d4b85073-a792-4696-bf68-e91dff9316ab",
-              "title": "Romance",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/romance-wide.png",
-              "dataSources": [
+              "id" : "d4b85073-a792-4696-bf68-e91dff9316ab",
+              "title" : "Romance",
+              "hideTitle" : true,
+              "imageAspect" : "wide",
+              "imageURL" : "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/romance-wide.png",
+              "dataSources" : [
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "com.linvo.cinemeta",
-                    "catalogId": "top",
-                    "type": "movie",
-                    "genre": "Romance"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "com.linvo.cinemeta",
+                    "catalogId" : "top",
+                    "type" : "movie"
                   }
                 },
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "com.linvo.cinemeta",
-                    "catalogId": "top",
-                    "type": "series",
-                    "genre": "Romance"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "com.linvo.cinemeta",
+                    "catalogId" : "top",
+                    "type" : "series"
                   }
                 }
               ]
             },
             {
-              "id": "fb1b44f7-441a-4c72-874d-b32b31eab572",
-              "title": "Action",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/action-wide.png",
-              "dataSources": [
+              "id" : "fb1b44f7-441a-4c72-874d-b32b31eab572",
+              "title" : "Action",
+              "hideTitle" : true,
+              "imageAspect" : "wide",
+              "imageURL" : "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/action-wide.png",
+              "dataSources" : [
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "com.linvo.cinemeta",
-                    "catalogId": "top",
-                    "type": "movie",
-                    "genre": "Action"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "com.linvo.cinemeta",
+                    "catalogId" : "top",
+                    "type" : "movie"
                   }
                 },
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "com.linvo.cinemeta",
-                    "catalogId": "top",
-                    "type": "series",
-                    "genre": "Action"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "com.linvo.cinemeta",
+                    "catalogId" : "top",
+                    "type" : "series"
                   }
                 }
               ]
             },
             {
-              "id": "1c8f20af-b2fe-4afa-8511-88c0c605a686",
-              "title": "Comedy",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/comedy-wide.png",
-              "dataSources": [
+              "id" : "1c8f20af-b2fe-4afa-8511-88c0c605a686",
+              "title" : "Comedy",
+              "hideTitle" : true,
+              "imageAspect" : "wide",
+              "imageURL" : "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/comedy-wide.png",
+              "dataSources" : [
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "com.linvo.cinemeta",
-                    "catalogId": "top",
-                    "type": "movie",
-                    "genre": "Comedy"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "com.linvo.cinemeta",
+                    "catalogId" : "top",
+                    "type" : "movie"
                   }
                 },
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "com.linvo.cinemeta",
-                    "catalogId": "top",
-                    "type": "series",
-                    "genre": "Comedy"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "com.linvo.cinemeta",
+                    "catalogId" : "top",
+                    "type" : "series"
                   }
                 }
               ]
             },
             {
-              "id": "60b0411b-7925-4b34-a453-3685dbb3d8c5",
-              "title": "Sci-Fi",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/sci-fi-wide.png",
-              "dataSources": [
+              "id" : "60b0411b-7925-4b34-a453-3685dbb3d8c5",
+              "title" : "Sci-Fi",
+              "hideTitle" : true,
+              "imageAspect" : "wide",
+              "imageURL" : "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/sci-fi-wide.png",
+              "dataSources" : [
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "com.linvo.cinemeta",
-                    "catalogId": "top",
-                    "type": "movie",
-                    "genre": "Sci-Fi"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "com.linvo.cinemeta",
+                    "catalogId" : "top",
+                    "type" : "movie"
                   }
                 },
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "com.linvo.cinemeta",
-                    "catalogId": "top",
-                    "type": "series",
-                    "genre": "Sci-Fi"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "com.linvo.cinemeta",
+                    "catalogId" : "top",
+                    "type" : "series"
                   }
                 }
               ]
             },
             {
-              "id": "a5e09c6d-41f8-48fb-b409-8920092bc0f4",
-              "title": "Crime",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/crime-wide.png",
-              "dataSources": [
+              "id" : "a5e09c6d-41f8-48fb-b409-8920092bc0f4",
+              "title" : "Crime",
+              "hideTitle" : true,
+              "imageAspect" : "wide",
+              "imageURL" : "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/crime-wide.png",
+              "dataSources" : [
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "com.linvo.cinemeta",
-                    "catalogId": "top",
-                    "type": "movie",
-                    "genre": "Crime"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "com.linvo.cinemeta",
+                    "catalogId" : "top",
+                    "type" : "movie"
                   }
                 },
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "com.linvo.cinemeta",
-                    "catalogId": "top",
-                    "type": "series",
-                    "genre": "Crime"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "com.linvo.cinemeta",
+                    "catalogId" : "top",
+                    "type" : "series"
                   }
                 }
               ]
             },
             {
-              "id": "f953a671-ace5-450d-9c70-6e91a735864f",
-              "title": "Thriller",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/thriller-wide.png",
-              "dataSources": [
+              "id" : "f953a671-ace5-450d-9c70-6e91a735864f",
+              "title" : "Thriller",
+              "hideTitle" : true,
+              "imageAspect" : "wide",
+              "imageURL" : "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/thriller-wide.png",
+              "dataSources" : [
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "com.linvo.cinemeta",
-                    "catalogId": "top",
-                    "type": "movie",
-                    "genre": "Thriller"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "com.linvo.cinemeta",
+                    "catalogId" : "top",
+                    "type" : "movie"
                   }
                 },
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "com.linvo.cinemeta",
-                    "catalogId": "top",
-                    "type": "series",
-                    "genre": "Thriller"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "com.linvo.cinemeta",
+                    "catalogId" : "top",
+                    "type" : "series"
                   }
                 }
               ]
             },
             {
-              "id": "19975918-d59a-426d-852a-fa30c2236ec1",
-              "title": "Drama",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/drama-wide.png",
-              "dataSources": [
+              "id" : "19975918-d59a-426d-852a-fa30c2236ec1",
+              "title" : "Drama",
+              "hideTitle" : true,
+              "imageAspect" : "wide",
+              "imageURL" : "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/drama-wide.png",
+              "dataSources" : [
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "com.linvo.cinemeta",
-                    "catalogId": "top",
-                    "type": "movie",
-                    "genre": "Drama"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "com.linvo.cinemeta",
+                    "catalogId" : "top",
+                    "type" : "movie"
                   }
                 },
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "com.linvo.cinemeta",
-                    "catalogId": "top",
-                    "type": "series",
-                    "genre": "Drama"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "com.linvo.cinemeta",
+                    "catalogId" : "top",
+                    "type" : "series"
                   }
                 }
               ]
             },
             {
-              "id": "33467c13-23cc-4f78-92dd-3932598adc33",
-              "title": "Horror",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/horror-wide.png",
-              "dataSources": [
+              "id" : "33467c13-23cc-4f78-92dd-3932598adc33",
+              "title" : "Horror",
+              "hideTitle" : true,
+              "imageAspect" : "wide",
+              "imageURL" : "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/horror-wide.png",
+              "dataSources" : [
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "com.linvo.cinemeta",
-                    "catalogId": "top",
-                    "type": "movie",
-                    "genre": "Horror"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "com.linvo.cinemeta",
+                    "catalogId" : "top",
+                    "type" : "movie"
                   }
                 },
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "com.linvo.cinemeta",
-                    "catalogId": "top",
-                    "type": "series",
-                    "genre": "Horror"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "com.linvo.cinemeta",
+                    "catalogId" : "top",
+                    "type" : "series"
                   }
                 }
               ]
             },
             {
-              "id": "eacfc1c3-282c-4c49-8e07-03c5e7c16558",
-              "title": "Mystery",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "imageURL": "https://nuvioapp.space/uploads/covers/5c537c81-e7e0-4626-ae01-81be3c3498e0.png",
-              "dataSources": [
+              "id" : "eacfc1c3-282c-4c49-8e07-03c5e7c16558",
+              "title" : "Mystery",
+              "hideTitle" : true,
+              "imageAspect" : "wide",
+              "imageURL" : "https://nuvioapp.space/uploads/covers/5c537c81-e7e0-4626-ae01-81be3c3498e0.png",
+              "dataSources" : [
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "com.linvo.cinemeta",
-                    "catalogId": "top",
-                    "type": "movie",
-                    "genre": "Mystery"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "com.linvo.cinemeta",
+                    "catalogId" : "top",
+                    "type" : "movie"
                   }
                 },
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "com.linvo.cinemeta",
-                    "catalogId": "top",
-                    "type": "series",
-                    "genre": "Mystery"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "com.linvo.cinemeta",
+                    "catalogId" : "top",
+                    "type" : "series"
                   }
                 }
               ]
             },
             {
-              "id": "folder-324559bc",
-              "title": "Quentin Tarantino",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "imageURL": "https://nuvioapp.space/uploads/covers/92165c9f-612a-42ac-b073-35b126048ab1.png",
-              "dataSources": [
+              "id" : "folder-324559bc",
+              "title" : "Quentin Tarantino",
+              "hideTitle" : true,
+              "imageAspect" : "wide",
+              "imageURL" : "https://nuvioapp.space/uploads/covers/92165c9f-612a-42ac-b073-35b126048ab1.png",
+              "dataSources" : [
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "br.cinemaratona.addon.movies",
-                    "catalogId": "cine_especiais",
-                    "type": "movie",
-                    "genre": "Best of Quentin Tarantino"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "br.cinemaratona.addon.movies",
+                    "catalogId" : "cine_especiais",
+                    "type" : "movie"
                   }
                 }
               ]
             },
             {
-              "id": "folder-ea1a0343",
-              "title": "Christopher Nolan",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "imageURL": "https://nuvioapp.space/uploads/covers/776d45d6-c957-4816-b493-190ec1740099.png",
-              "dataSources": [
+              "id" : "folder-ea1a0343",
+              "title" : "Christopher Nolan",
+              "hideTitle" : true,
+              "imageAspect" : "wide",
+              "imageURL" : "https://nuvioapp.space/uploads/covers/776d45d6-c957-4816-b493-190ec1740099.png",
+              "dataSources" : [
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "br.cinemaratona.addon.movies",
-                    "catalogId": "cine_especiais",
-                    "type": "movie",
-                    "genre": "Best of Christopher Nolan"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "br.cinemaratona.addon.movies",
+                    "catalogId" : "cine_especiais",
+                    "type" : "movie"
                   }
                 }
               ]
@@ -588,322 +566,311 @@
       }
     },
     {
-      "id": "collection.collection-cc08736a",
-      "title": "Movie Sagas",
-      "type": "collection.row",
-      "dataSource": {
-        "kind": "collection",
-        "payload": {
-          "items": [
+      "id" : "collection.collection-cc08736a",
+      "title" : "Movie Sagas",
+      "type" : "collection.row",
+      "dataSource" : {
+        "kind" : "collection",
+        "payload" : {
+          "items" : [
             {
-              "id": "folder-3e055dc5",
-              "title": "Star Wars",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "imageURL": "https://nuvioapp.space/uploads/covers/9f047cc1-6d04-4c86-8327-3023925c9928.jpg",
-              "dataSources": [
+              "id" : "folder-3e055dc5",
+              "title" : "Star Wars",
+              "hideTitle" : true,
+              "imageAspect" : "wide",
+              "imageURL" : "https://nuvioapp.space/uploads/covers/9f047cc1-6d04-4c86-8327-3023925c9928.jpg",
+              "dataSources" : [
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "com.starwars.addon",
-                    "catalogId": "sw-movies-series-chronological",
-                    "type": "StarWars"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "com.starwars.addon",
+                    "catalogId" : "sw-movies-series-chronological",
+                    "type" : "StarWars"
                   }
                 },
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "com.starwars.addon",
-                    "catalogId": "sw-skywalker-saga",
-                    "type": "StarWars"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "com.starwars.addon",
+                    "catalogId" : "sw-skywalker-saga",
+                    "type" : "StarWars"
                   }
                 },
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "com.starwars.addon",
-                    "catalogId": "sw-live-action-series",
-                    "type": "StarWars"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "com.starwars.addon",
+                    "catalogId" : "sw-live-action-series",
+                    "type" : "StarWars"
                   }
                 },
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "com.starwars.addon",
-                    "catalogId": "sw-animated-series",
-                    "type": "StarWars"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "com.starwars.addon",
+                    "catalogId" : "sw-animated-series",
+                    "type" : "StarWars"
                   }
                 }
               ]
             },
             {
-              "id": "folder-0bfe429b",
-              "title": "DC Universe",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "imageURL": "https://i.imgur.com/iXcaSS9.png",
-              "dataSources": [
+              "id" : "folder-0bfe429b",
+              "title" : "DC Universe",
+              "hideTitle" : true,
+              "imageAspect" : "wide",
+              "imageURL" : "https://i.imgur.com/iXcaSS9.png",
+              "dataSources" : [
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "com.tapframe.dcaddon",
-                    "catalogId": "dc-chronological",
-                    "type": "DC"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "com.tapframe.dcaddon",
+                    "catalogId" : "dc-chronological",
+                    "type" : "DC"
                   }
                 },
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "com.tapframe.dcaddon",
-                    "catalogId": "dc-movies",
-                    "type": "DC"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "com.tapframe.dcaddon",
+                    "catalogId" : "dc-movies",
+                    "type" : "DC"
                   }
                 },
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "com.tapframe.dcaddon",
-                    "catalogId": "dc-series",
-                    "type": "DC"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "com.tapframe.dcaddon",
+                    "catalogId" : "dc-series",
+                    "type" : "DC"
                   }
                 }
               ]
             },
             {
-              "id": "folder-7ca18460",
-              "title": "Marvel Universe",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "imageURL": "https://i.postimg.cc/g0BNgjdf/Marvel.jpg",
-              "dataSources": [
+              "id" : "folder-7ca18460",
+              "title" : "Marvel Universe",
+              "hideTitle" : true,
+              "imageAspect" : "wide",
+              "imageURL" : "https://i.postimg.cc/g0BNgjdf/Marvel.jpg",
+              "dataSources" : [
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "com.joaogonp.marveladdon",
-                    "catalogId": "marvel-mcu",
-                    "type": "Marvel"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "com.joaogonp.marveladdon",
+                    "catalogId" : "marvel-mcu",
+                    "type" : "Marvel"
                   }
                 },
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "com.joaogonp.marveladdon",
-                    "catalogId": "xmen",
-                    "type": "Marvel"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "com.joaogonp.marveladdon",
+                    "catalogId" : "xmen",
+                    "type" : "Marvel"
                   }
                 },
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "com.joaogonp.marveladdon",
-                    "catalogId": "movies",
-                    "type": "Marvel"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "com.joaogonp.marveladdon",
+                    "catalogId" : "movies",
+                    "type" : "Marvel"
                   }
                 },
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "com.joaogonp.marveladdon",
-                    "catalogId": "series",
-                    "type": "Marvel"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "com.joaogonp.marveladdon",
+                    "catalogId" : "series",
+                    "type" : "Marvel"
                   }
                 }
               ]
             },
             {
-              "id": "folder-1b109f11",
-              "title": "The Lord of The Rings",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "imageURL": "https://i.pinimg.com/originals/e5/63/b3/e563b31941f2cab0f392af4df5cc51b2.jpg",
-              "dataSources": [
+              "id" : "folder-1b109f11",
+              "title" : "The Lord of The Rings",
+              "hideTitle" : true,
+              "imageAspect" : "wide",
+              "imageURL" : "https://i.pinimg.com/originals/e5/63/b3/e563b31941f2cab0f392af4df5cc51b2.jpg",
+              "dataSources" : [
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "br.cinemaratona.addon.movies",
-                    "catalogId": "cine_sagas_filmes",
-                    "type": "movie",
-                    "genre": "The Lord of the Rings & The Hobbit"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "br.cinemaratona.addon.movies",
+                    "catalogId" : "cine_sagas_filmes",
+                    "type" : "movie"
                   }
                 }
               ]
             },
             {
-              "id": "folder-feb4ea37",
-              "title": "Harry Potter",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "imageURL": "https://i.postimg.cc/hjzM6nth/Harry-Potter.jpg",
-              "dataSources": [
+              "id" : "folder-feb4ea37",
+              "title" : "Harry Potter",
+              "hideTitle" : true,
+              "imageAspect" : "wide",
+              "imageURL" : "https://i.postimg.cc/hjzM6nth/Harry-Potter.jpg",
+              "dataSources" : [
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "br.cinemaratona.addon.movies",
-                    "catalogId": "cine_sagas_filmes",
-                    "type": "movie",
-                    "genre": "Harry Potter"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "br.cinemaratona.addon.movies",
+                    "catalogId" : "cine_sagas_filmes",
+                    "type" : "movie"
                   }
                 }
               ]
             },
             {
-              "id": "folder-d614dea4",
-              "title": "Pirates of the Caribbean",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "imageURL": "https://i.postimg.cc/Gmwdxn5R/Pirates.jpg",
-              "dataSources": [
+              "id" : "folder-d614dea4",
+              "title" : "Pirates of the Caribbean",
+              "hideTitle" : true,
+              "imageAspect" : "wide",
+              "imageURL" : "https://i.postimg.cc/Gmwdxn5R/Pirates.jpg",
+              "dataSources" : [
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "br.cinemaratona.addon.movies",
-                    "catalogId": "cine_sagas_filmes",
-                    "type": "movie",
-                    "genre": "Pirates of the Caribbean"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "br.cinemaratona.addon.movies",
+                    "catalogId" : "cine_sagas_filmes",
+                    "type" : "movie"
                   }
                 }
               ]
             },
             {
-              "id": "folder-b7a2bbd1",
-              "title": "Transformers",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "imageURL": "https://i.postimg.cc/Vk6LNnQ2/transformer-collection.jpg",
-              "dataSources": [
+              "id" : "folder-b7a2bbd1",
+              "title" : "Transformers",
+              "hideTitle" : true,
+              "imageAspect" : "wide",
+              "imageURL" : "https://i.postimg.cc/Vk6LNnQ2/transformer-collection.jpg",
+              "dataSources" : [
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "br.cinemaratona.addon.movies",
-                    "catalogId": "cine_sagas_filmes",
-                    "type": "movie",
-                    "genre": "Transformers"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "br.cinemaratona.addon.movies",
+                    "catalogId" : "cine_sagas_filmes",
+                    "type" : "movie"
                   }
                 }
               ]
             },
             {
-              "id": "folder-bc4fab03",
-              "title": "X-Men",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "imageURL": "https://i.postimg.cc/RC2Ny8Ds/X-Men.jpg",
-              "dataSources": [
+              "id" : "folder-bc4fab03",
+              "title" : "X-Men",
+              "hideTitle" : true,
+              "imageAspect" : "wide",
+              "imageURL" : "https://i.postimg.cc/RC2Ny8Ds/X-Men.jpg",
+              "dataSources" : [
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "br.cinemaratona.addon.movies",
-                    "catalogId": "cine_sagas_filmes",
-                    "type": "movie",
-                    "genre": "X-Men"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "br.cinemaratona.addon.movies",
+                    "catalogId" : "cine_sagas_filmes",
+                    "type" : "movie"
                   }
                 }
               ]
             },
             {
-              "id": "folder-8ce02005",
-              "title": "John Wick",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "imageURL": "https://i.postimg.cc/W14q7rtM/JW.jpg",
-              "dataSources": [
+              "id" : "folder-8ce02005",
+              "title" : "John Wick",
+              "hideTitle" : true,
+              "imageAspect" : "wide",
+              "imageURL" : "https://i.postimg.cc/W14q7rtM/JW.jpg",
+              "dataSources" : [
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "br.cinemaratona.addon.movies",
-                    "catalogId": "cine_sagas_filmes",
-                    "type": "movie",
-                    "genre": "John Wick"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "br.cinemaratona.addon.movies",
+                    "catalogId" : "cine_sagas_filmes",
+                    "type" : "movie"
                   }
                 }
               ]
             },
             {
-              "id": "folder-b6e85ebc",
-              "title": "Indiana Jones",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "imageURL": "https://i.postimg.cc/tCbrtFwS/Indiana-Jo.jpg",
-              "dataSources": [
+              "id" : "folder-b6e85ebc",
+              "title" : "Indiana Jones",
+              "hideTitle" : true,
+              "imageAspect" : "wide",
+              "imageURL" : "https://i.postimg.cc/tCbrtFwS/Indiana-Jo.jpg",
+              "dataSources" : [
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "br.cinemaratona.addon.movies",
-                    "catalogId": "cine_sagas_filmes",
-                    "type": "movie",
-                    "genre": "Indiana Jones"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "br.cinemaratona.addon.movies",
+                    "catalogId" : "cine_sagas_filmes",
+                    "type" : "movie"
                   }
                 }
               ]
             },
             {
-              "id": "folder-60fb8c55",
-              "title": "Mission Impossible",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "imageURL": "https://i.postimg.cc/d1cM0cKC/Mission-Impossible.jpg",
-              "dataSources": [
+              "id" : "folder-60fb8c55",
+              "title" : "Mission Impossible",
+              "hideTitle" : true,
+              "imageAspect" : "wide",
+              "imageURL" : "https://i.postimg.cc/d1cM0cKC/Mission-Impossible.jpg",
+              "dataSources" : [
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "br.cinemaratona.addon.movies",
-                    "catalogId": "cine_sagas_filmes",
-                    "type": "movie",
-                    "genre": "Mission Impossible"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "br.cinemaratona.addon.movies",
+                    "catalogId" : "cine_sagas_filmes",
+                    "type" : "movie"
                   }
                 }
               ]
             },
             {
-              "id": "folder-ec5c6b57",
-              "title": "Fast and Furious",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "imageURL": "https://i.postimg.cc/6qDp7ZXC/Fast.jpg",
-              "dataSources": [
+              "id" : "folder-ec5c6b57",
+              "title" : "Fast and Furious",
+              "hideTitle" : true,
+              "imageAspect" : "wide",
+              "imageURL" : "https://i.postimg.cc/6qDp7ZXC/Fast.jpg",
+              "dataSources" : [
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "br.cinemaratona.addon.movies",
-                    "catalogId": "cine_sagas_filmes",
-                    "type": "movie",
-                    "genre": "Fast & Furious"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "br.cinemaratona.addon.movies",
+                    "catalogId" : "cine_sagas_filmes",
+                    "type" : "movie"
                   }
                 }
               ]
             },
             {
-              "id": "folder-7d9fd543",
-              "title": "Jason Bourne",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "imageURL": "https://i.ytimg.com/vi/je1sHLW-smE/maxresdefault.jpg",
-              "dataSources": [
+              "id" : "folder-7d9fd543",
+              "title" : "Jason Bourne",
+              "hideTitle" : true,
+              "imageAspect" : "wide",
+              "imageURL" : "https://i.ytimg.com/vi/je1sHLW-smE/maxresdefault.jpg",
+              "dataSources" : [
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "br.cinemaratona.addon.movies",
-                    "catalogId": "cine_especiais",
-                    "type": "movie",
-                    "genre": "Jason Bourne"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "br.cinemaratona.addon.movies",
+                    "catalogId" : "cine_especiais",
+                    "type" : "movie"
                   }
                 }
               ]
             },
             {
-              "id": "folder-f9e309e0",
-              "title": "Mad Max",
-              "hideTitle": false,
-              "imageAspect": "wide",
-              "imageURL": "https://nuvioapp.space/uploads/covers/7cfe1968-f51b-4b64-b444-e7ae9f2df97d.jpg",
-              "dataSources": [
+              "id" : "folder-f9e309e0",
+              "title" : "Mad Max",
+              "hideTitle" : false,
+              "imageAspect" : "wide",
+              "imageURL" : "https://nuvioapp.space/uploads/covers/7cfe1968-f51b-4b64-b444-e7ae9f2df97d.jpg",
+              "dataSources" : [
                 {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "br.cinemaratona.addon.movies",
-                    "catalogId": "cine_especiais",
-                    "type": "movie",
-                    "genre": "Mad Max"
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "br.cinemaratona.addon.movies",
+                    "catalogId" : "cine_especiais",
+                    "type" : "movie"
                   }
                 }
               ]
